@@ -1,5 +1,5 @@
 #include <iostream>
-#include "ast_switch.cpp"
+#include "text.cpp"
 using namespace std;
 
 int main()
@@ -11,7 +11,8 @@ int choice;
 
 cin >> choice;
 
-
+for (;;)
+{
 switch( choice )
 {
 case 1:
@@ -44,5 +45,6 @@ case 9:
 default:
     	void number();
     break;
-}
+} //switch
+} //for
 }
