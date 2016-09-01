@@ -1,3 +1,5 @@
+#include "text.cpp"
+
 void menu();
 void account();
 void nagroda();
