@@ -11,3 +11,6 @@ Automatic System phone
 Game avaliable from Nonsensopedia [(Uncyclopedia Polish)](http://nonsensopedia.wikia.com/wiki/Gra:Telefon): currently developent (if you want compiled, should do this through main.cpp file. Polish lang only.
 
 Game tested in Debian Jessie 8.
+
+## Compiling
+`make` creates an executable file `AST`
