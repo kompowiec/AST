@@ -24,6 +24,21 @@ void account() //1
 	printf( "Jeśli chcesz doładować swoje konto, 	wciśnij 2.\n" );
 	printf( "Chcesz wrócić do głównego menu, 	wciśnij gwiazdkę (*). \n" );    
 }
+void konto() //1-2
+{
+	printf( "Wybierz kod kuponu:" );
+	printf( "2940-12032-29236-23488-2388" );
+	printf( "9357-38569-37567-47568-9376" );
+	printf( "0800-880ZA-DZWOŃ-TERAZ-!!!!" );
+}
+
+void doladowanie() //1-2-1 or 1-2-3
+{ //1-2-2 wraca do 1
+;
+	printf( "0Kod kuponu został już użyty lub jest nieprawidłowy." );
+	printf( "0Aby wybrać kod kuponu jeszcze raz, 	wciśnij 1." );
+	printf( "Aby wrócić do głównego menu, 	wciśnij gwiazdkę (*). " );
+}
 
 void nagroda() //2
 {
@@ -106,6 +121,11 @@ void admin() //4
 	printf( "Potwierdź że jesteś administratorem Nonsensopedii;\n" );
 	printf( "Jeśli znasz wszystkich współadministratorów, 	wciśnij 1.\n" );
 	printf( "Jeśli ich wszystkich nie znasz, 	wciśnij gwiazdkę (*). \n" );
+}
+
+void admin1() //4-1
+{
+printf( "Niestety, nie możemy potwierdzić czy jesteś administratorem, czy nie. Wróć do głównego menu. \n" );
 }
 
 void abonament() //5
