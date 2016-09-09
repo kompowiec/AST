@@ -14,7 +14,9 @@ Game tested in Debian Jessie and Stretch.
 
 ## Compiling
 `make` creates an executable file `AST`
+
 or
+
 g++ main.cpp
 
 ##TODO
@@ -23,4 +25,5 @@ g++ main.cpp
 
 ##License
 Ideas and realization game in original - SH3VEK [(look for other authors)](http://nonsensopedia.wikia.com/wiki/Gra:Telefon?action=history). License CC-BY-SA 3.0
+
 Port for C++ - kompowiec2, sonora. 
