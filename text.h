@@ -4,7 +4,7 @@ void menu();
 //1
 void account();
 void konto();
-void doladowanie()
+void doladowanie();
 //2
 void nagroda();
 void nagroda1();
@@ -41,6 +41,6 @@ void przeziebienie();
 void Grypa();
 void ptasia();
 void swinska();
-//inide messages
+//inside messages
 void nein();
 void number();

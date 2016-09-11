@@ -89,12 +89,7 @@ pogotowie();
 	case 2:
 	nein();
 	break;
-	case 3:
-	nein();
-	break;
-	case 4:
-	nein();
-	break;
+break;
 default:
 	number();
             return 0;
