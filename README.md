@@ -21,8 +21,8 @@ g++ main.cpp
 
 ##TODO
 * It's beta version - works main menu only. Must have functionality text-based game.
-* Add timer in doladowaniu account, wchich will give always date about two days later.
-* Add manually cofanie to menu insert #
+* Add timer in boost account, wchich will give always date about two days later.
+* Add manually back to menu insert #
 * 
 * OPTIONAL: translate game for English language (the best option it add choice language in menu).
 
