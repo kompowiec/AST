@@ -39,10 +39,10 @@ nagroda();
          {
          case 1:
 	 odbierz();	
-         break;
 	 	1;gotowka();
 		2;gotowka();
 		3;kasa();
+	break;
          }
 	5;nagroda5();
 	6;nagroda6();
@@ -61,8 +61,6 @@ abonament();
 	3;nonfree();
 break;
 case 6:
-telefon();
-break;
 case 7:
 telefon();
 break;
@@ -76,6 +74,7 @@ break;
 case 0:
 pogotowie();
 	1;ASTPR();
+	cin.get()
 	switch(choice2)
 	{
 	case 1:
@@ -84,11 +83,13 @@ pogotowie();
 		2;Grypa();
 		3;ptasia();
 		4;swinska();
-	}
 	break;
 	case 2:
+	case 3:
+	case 4:
 	nein();
 	break;
+	}
 break;
 default:
 	number();
