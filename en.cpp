@@ -8,15 +8,16 @@ void ClrScr(){
 
 void menu()
 {
-	printf( "Witamy w usłudze Automatycznego Systemu Telefonicznego. Oferujemy różne usługi;\n" );
-	printf( "if you want sprawdzić stan konta, 		click 1.\n" );
-	printf( "if win bear and you want odebrać nagrodę, 	click 2.\n" );
+	printf( "Welcome to Automatic System Phone service. We offer a variety of services;\n" );
+	 
+	printf( "if you want check account,	 		click 1.\n" );
+	printf( "if win bear and you want receive awards 	click 2.\n" );
 	printf( "if don't have voicemail,		 	click 3.\n" );
 	printf( "if you are admin Uncyclopedia, 		click 4.\n" );
-	printf( "if you pay abonament radio-TV license,		click 5.\n" );
+	printf( "if you pay sub radio-TV license,		click 5.\n" );
 	printf( "if you hold in your hand the phone,		click 6.\n" );
 	printf( "if you want play the game,	 		click 7.\n" );
-	printf( "if you ident to call on 0-800, 		click 8.\n" );
+	printf( "if you indent to call on 0-800, 		click 8.\n" );
 	printf( "if you using Neostrada TP,	 		click 9.\n" );
 	printf( "if you want call on emergency , 		click 0.\n" );
 	printf( "if you want break connection, 			break connect.\n" );
@@ -24,7 +25,7 @@ void menu()
 }
 void account() //1
 {
-	printf( "Have 3,44 PLN imporant to" << <<" WARNING! Automatic System Telephone service is paylable.\n" );
+	printf( "Have 3,44 PLN important to" << <<" WARNING! Automatic System Telephone service is payable.\n" );
 	printf( "To recheck status of your account, 	click 1.\n" );
 	printf( "if you want recharge your account, 	click 2.\n" );
 	printf( "if you want return to the main menu, 	click star (*). \n" );    
@@ -48,38 +49,38 @@ void doladowanie() //1-2-1 or 1-2-3
 void nagroda() //2
 {
 	printf( "To receive an award, you need to select the pattern teddy bear to pick up.;" );
-	printf( "black, ears and limbs grey, 20 pseudofingers, toungue grey, brown eyes, 		click 1.\n" );
-	printf( "brown, ears and limbs beige, 20 pseudofingers, tongue golden, green eyes, 		click 2.\n" );
-	printf( "green, ears and limbs green, 16 pseudofiners, tongue green, black eyes, 		click 3.\n" );
-	printf( "purple, ears and limbs pink, 20 pseudofingers, tongue blue, white eyes, 		click 4.\n" );
-	printf( "red, ears i limbs green, 21 pseudofingers, tounge pink, blue eyes, 			click 5.\n" );
-	printf( "blue, ears i limbs blue, 4 hoofs and 2 vanes, toungue red, tail and rainbow hair,	click 6.\n" );
+	printf( "black, ears and limbs grey, 20 pseudo fingers, tongue grey, brown eyes, 		click 1.\n" );
+	printf( "brown, ears and limbs beige, 20 pseudo fingers, tongue golden, green eyes, 		click 2.\n" );
+	printf( "green, ears and limbs green, 16 pseudo fingers, tongue green, black eyes, 		click 3.\n" );
+	printf( "purple, ears and limbs pink, 20 pseudo fingers, tongue blue, white eyes, 		click 4.\n" );
+	printf( "red, ears i limbs green, 21 pseudo fingers, tongue pink, blue eyes, 			click 5.\n" );
+	printf( "blue, ears i limbs blue, 4 hoofs and 2 vanes, tongue red, tail and rainbow hair,	click 6.\n" );
 	printf( "To return to the main menu,	 click star (*). \n" );	
 }
 
 void nagroda1() //2-1
 {
-	printf( "Award nie jest dostępna w ofercie; Bear black, ears and limbs grey, 20 pseudofingers, toungue grey, brown eyes\n" );
-	printf( "Reason; Bear black, ears and limbs grey, 20 pseudofingers, toungue grey, brown eyes – out of stock.\n" );
+	printf( "Award isn't available in offer; Bear black, ears and limbs grey, 20 pseudo fingers, tongue grey, brown eyes\n" );
+	printf( "Reason; Bear black, ears and limbs grey, 20 pseudo fingers, tongue grey, brown eyes – out of stock.\n" );
 	printf( "Choose another award\m");
 }
 
 void nagroda2() //2-2
 {
-	printf( "Award isn't avaliable in offer: brown, ears and limbs beige, 20 pseudofingers, tongue golden, green eyes\n" );
-	printf( "Reason brown, ears and limbs beige, 20 pseudofingers, tongue golden, green eyes –  out of stock.\n" );
+	printf( "Award isn't available in offer: brown, ears and limbs beige, 20 pseudo fingers, tongue golden, green eyes\n" );
+	printf( "Reason brown, ears and limbs beige, 20 pseudo fingers, tongue golden, green eyes –  out of stock.\n" );
 	printf( "Choose another award\m");
 }
 
 void nagroda3() //2-3
 {
-	printf( "Award isn't avaliable in offer: green, ears and limbs green, 16 pseudofiners, tongue green, black eyes. \n" );
-	printf( "Reason; green, ears and limbs green, 16 pseudofiners, tongue green, black eyes – low demand of mars bears.\n" );
+	printf( "Award isn't available in offer: green, ears and limbs green, 16 pseudo fingers, tongue green, black eyes. \n" );
+	printf( "Reason; green, ears and limbs green, 16 pseudo fingers, tongue green, black eyes – low demand of mars bears.\n" );
 	printf( "Choose another award\m");
 }
 void nagroda4() //2-4
 {
-	printf( "Award is avaliable; purple, ears and limbs pink, 20 pseudofingers, tongue blue, white eyes. \n" );
+	printf( "Award is available; purple, ears and limbs pink, 20 pseudo fingers, tongue blue, white eyes. \n" );
 	printf( "Receive. \n" ); //2-4-1
 }
 void odbierz() //2-4-1-1
@@ -99,19 +100,19 @@ void kasa() //2-3-1-1-3
 {
 	printf( "You don't have enough funds in your account.\n" );
 	printf( "To check status account, 	click 1.\n" );
-	printf( "To Recharge acoount,	 	click 2.\n" );
+	printf( "To Recharge account,	 	click 2.\n" );
 	printf( "TO return to the main menu,	 click star (*). \n" );	
 }
 void nagroda5()
 {
-	printf( "Award: red, ears i limbs green, 21 pseudofingers, tounge pink, blue eyes\n" );
-	printf( "Reason; red, ears i limbs green, 21 pseudofingers, tounge pink, blue eyes – badly made bear.\n" );
+	printf( "Award: red, ears i limbs green, 21 pseudo fingers, tongue pink, blue eyes\n" );
+	printf( "Reason; red, ears i limbs green, 21 pseudo fingers, tongue pink, blue eyes – badly made bear.\n" );
 	printf( "Choose another award\m");
 }
 void nagroda6()
 {
-	printf( "Award isn't avaliable in offer; blue, ears i limbs blue, 4 hoofs and 2 vanes, toungue red, tail and rainbow hair.\n" );
-	printf( "Powód; blue, ears i limbs blue, 4 hoofs and 2 vanes, toungue red, tail and rainbow hair – przecież to nie miś, tylko kucyk. Powołaliśmy specjalną komisję, aby sprzwdzić czemu kucyk się pojawił\n" );
+	printf( "Award isn't available in offer; blue, ears i limbs blue, 4 hoofs and 2 vanes, tongue red, tail and rainbow hair.\n" );
+	printf( "Reason; blue, ears i limbs blue, 4 hoofs and 2 vanes, tongue red, tail and rainbow hair – It isn't bear, just pony. Powołaliśmy specjalną komisję, aby sprzwdzić czemu kucyk się pojawił\n" );
 	printf( "Choose another award\m");
 }
 void poczta() //3
@@ -130,16 +131,16 @@ void admin() //4
 
 void admin1() //4-1
 {
-printf( "NSorry, we can not determine if you are an administrator or not. Return to the main menu. \n" );
+printf( "Sorry, we can't determine if you are an administrator or not. Return to the main menu. \n" );
 }
 
 void abonament() //5
 {
-	printf( "Drogi abonencie! Płacisz za abonament i za to chcieliśmy ci to nagrodzić. Wybierz swoją nagrodę;\n" );
-	printf( "Darmowy wstęp do budynku Telewizji Polskiej przy ul. Woronicza, 	click 1.\n" );
-	printf( "Darmowy występ w Teleekspresie jako pociąg, 	click 2.\n" );
-	printf( "Darmowy abonament przez miesiąc, 	click 3.\n" );
-	printf( "Powrót do głównego menu, 	click star (*).  \n" );
+	printf( "Dear subscriptions! Pay for subscriptions and want  nagrodzić. Check your award;\n" );
+	printf( "Free entry to building TP on street  Woronicza, 	click 1.\n" );
+	printf( "Free performance w Teleexpress as a train,	 	click 2.\n" );
+	printf( "Free sub for month,			 		click 3.\n" );
+	printf( "Return to main menu,				 	click star (*).  \n" );
 }
 void TP() //5-1
 {
@@ -148,12 +149,12 @@ printf ( "TVP doesn't express permission to do so, because the free admission ha
 
 void train() //5-2
 {
-	printf( "Telewizja Polska doesn't express permission to do so, because too many people are hired as a train Teleekspresie and there is no more space\n");
+	printf( "TP  doesn't express permission to do so, because too many people are hired as a train telexpress and there is no more space\n");
 }
 
 void nonfree() //5-3
 {
-	printf( "doesn't express permission to do so, because only earns subscription, and each loss can prevent the loss of several episodes of the series Clan of the lack of payments for rehabilitation Maciek Clan\n");
+	printf( "doesn't express permission to do so, because only earns subscription, and each loss can prevent the loss of several episodes of the series Clan of the lack of payments for rehabilitation rustic wtih Clan\n");
 }
 void telefon() //6 and 7
 {
@@ -185,7 +186,7 @@ void pogotowie() //0
 	
 	void ASTPR() //0-1
 {
-	printf( "Welcome to Automatic System Telephone Emergency Medical Services.. How can in help?\n" );
+	printf( "Welcome to Automatic System Telephone Emergency Medical Services. How can in help?\n" );
 	printf( "if you are ill a cold or flu, 	click 1.\n" );
 	printf( "if break one his limbs, 	click 2.\n" );
 	printf( "if you have infectious disease click 3.\n" );
@@ -194,20 +195,20 @@ void pogotowie() //0
 
 void ill() //0-1-1
 {
-	printf( "Na co jesteś chory?\n" );
-	printf( "Przeziębienie, 	click 1.\n" );
-	printf( "Grypa sezonowa, 	click 2.\n" );
-	printf( "Ptasia grypa, 	click 3.\n" );
-	printf( "Świńska grypa, 	click 4.\n" );
+	printf( "What are you sick?\n" );
+	printf( "common cold, 	click 1.\n" );
+	printf( "seansonal flu, 	click 2.\n" );
+	printf( "bird flu, 	click 3.\n" );
+	printf( "pig flu, 	click 4.\n" );
 }
 
 void przeziebienie() //0-1-1-1
 {
-	printf( "Trwa wypisywanie recepty... GOTOWE!\n" );
-	printf( "Chusteczki A... Psik – 10 razy dziennie po 3 chusteczki\n" );
-	printf( "Fervex – 4 razy dziennie po 8 saszetek\n" );
-	printf( "Apap Na to jest za późno, więc Apap EXTRA – 2 razy dziennie po 3 tabletki\n" );
-	printf( "Łóżko z pościelą (miejsce twojego tymczasowego pobytu) \n" );
+	printf( "It takes writing out a prescription ... READY!");
+	printf( "Hanky Achoo! – 10 times a day for 3 Handkierchief\n" );
+	printf( "Fervex – 4 times a day for 8 saszetek\n" );
+	printf( "Apap is too later, so Apap EXTRA – 2x everyday 3 tabletki\n" );
+	printf( "bed with bedding  (place your temporary stay)\n" );
 	printf( "Refund; to decision  NFZ\n" );
 	printf( "Next\n" );
 }
@@ -215,10 +216,10 @@ void przeziebienie() //0-1-1-1
 void Grypa() //0-1-1-2
 {
 	printf( "It takes writing out a prescription ... READY!");
-	printf( "Gripex – 2 razy dziennie po 3 tabletki\n" );
-	printf( "Apap Na to jest za późno, więc Apap EXTRA – 3 razy dziennie po 2 tabletki\n" );
-	printf( "Ciepły rosół (z makaronem) – razy dziennie po\n" );
-	printf( "Łóżko z pościelą (miejsce twojego tymczasowego pobytu) \n" );
+	printf( "Gripex – 2 times a day for  3 tablets\n" );
+	printf( "Apap On it it's too late, so Apap EXTRA – 3 times a day for 2 tablets\n" );
+	printf( "Hot broth with noodles\n" );
+	printf( "bed with bedding (place your temporary stay \n" );
 	printf( "Refund; to decision  NFZ\n" );
 	printf( "Next 	\n" );
 }
@@ -226,9 +227,9 @@ void Grypa() //0-1-1-2
 void ptasia() //0-1-1-3
 {
 	printf( "It takes writing out a prescription ... READY!");
-	printf( "Tweetolum Forte – 2 razy dziennie po 6 tweetolów\n" );
+	printf( "Tweetolum Forte –  6 tweetolów\n" );
 	printf( "anti-toxic cage (place your temporary stay).\n" );
-	printf( "Faceboocol – 13 razy dziennie po 5 fanpejdżów \n" );
+	printf( "Faceboocol – 13 times a day for 5 fan pages \n" );
 	printf( "Refund; to decision  NFZ\n" );
 	printf( "Next 	\n" );
 }
@@ -236,10 +237,10 @@ void ptasia() //0-1-1-3
 void swinska() //0-1-1-4
 {
 	printf( "It takes writing out a prescription ... READY!");
-	printf( "Chrumcosol – 3 razy dziennie po 8 chrumka\n" );
-	printf( "pig Extra – 6 razy dziennie po 5 oświnie\n" );
+	printf( "Chrumcosol – 3 times a day  for 8 tables\n" );
+	printf( "pig Extra – 6 times a day  for 5 tablets\n" );
 	printf( "anti-toxic cage (place your temporary stay).\n" );
-	printf( "Refund; Do decyzji NFZ\n" );
+	printf( "Refund; to decision NFZ\n" );
 	printf( "Next\n" );
 }
 
