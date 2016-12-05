@@ -1,11 +1,6 @@
 #include <cstdio>
 #include "text.h"
 
-void ClrScr(){
-  printf("\033[2J"); // clear screen
-  printf("\033[0;0f"); // set cursor in left, up 
-}
-
 void menu()
 {
 	printf("Witamy w usłudze Automatycznego Systemu Telefonicznego. Oferujemy różne usługi;\n");

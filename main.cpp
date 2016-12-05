@@ -1,34 +1,35 @@
 #include <iostream>
 #include "text.h"
 
-int main()
+int main(int argc, char const *argv[])
 {
 	int choice;
 	int choice2;
 	menu();
 
+	// Myślę, że to powinno być w funckji menu, bo chcemy zawsze móc wrócić 
 	while(true)
 	{
 		std::cin >> choice;
 		switch(choice)
 		{
 			case 1:
-			account();
+				account();
 				// 2
 				konto();
-					switch(choice2)
-					{
-						case 1:
-							doladowanie();
-							break;
-						case 2:
-							konto();
-							break;
-						case 3:
-							doladowanie();
-							break;
-					}
-			break;
+				switch(choice2)
+				{
+					case 1:
+						doladowanie();
+						break;
+					case 2:
+						konto();
+						break;
+					case 3:
+						doladowanie();
+						break;
+				}
+				break;
 			case 2:
 				nagroda();
 				// 1
@@ -41,7 +42,6 @@ int main()
 				nagroda4();
 				switch(choice2)
 				{
-					// Zgaduję, że tu mają być inne case'y
 					case 1:
 						odbierz();	
 						// 1
@@ -113,4 +113,5 @@ int main()
 				return 0; // Na pewno ma wychodzić z całego programu?
 		} // switch
 	} // while
+	return 0;
 }
