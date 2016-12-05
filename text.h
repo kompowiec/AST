@@ -1,4 +1,6 @@
-#include "text.cpp"
+#ifndef TEXT_H
+#define TEXT_H
+
 //0
 void menu();
 //1
@@ -44,3 +46,5 @@ void swinska();
 //inside messages
 void nein();
 void number();
+
+#endif // TEXT_H

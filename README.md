@@ -1,25 +1,25 @@
 # AST
 Automatyczny System Telefoniczny
 
-[Gra z nonsensopedii](http://nonsensopedia.wikia.com/wiki/Gra:Telefon) przeportowana na wersję offline. W trakcie opracowywania (aby ją skompilować należy to zrobić za pomocą pliku main.cpp - aktualnie działa tylko menu główne - wersja demo)
+Wersja offline [Gry z Nonsensopedii](http://nonsensopedia.wikia.com/wiki/Gra:Telefon).
 
+Aktualnie działa tylko menu główne - wersja demo.
 
-Gra została przetestowana na Debian Jessie oraz Stretch.
-#English
-Automatic System Telephone
+### English
+Automatic System of Telephones
 
-Game available from Nonsensopedia [(Uncyclopedia Polish)](http://nonsensopedia.wikia.com/wiki/Gra:Telefon): currently development. Game in language Polish only.
+Offline version of [The Nonsensopedia (Uncyclopedia) Game](http://nonsensopedia.wikia.com/wiki/Gra:Telefon).
 
-Game tested in Debian Jessie and Stretch.
+At this point there's only a demo in polish.
 
 ## Compiling
 `make` creates an executable file `AST`
 
-or
+Tested on Debian Jessie, Debian Stretch and Fedora 24.
 
-g++ main.cpp
+## License
+Ideas and original game - SH3VEK [(look for other authors)](http://nonsensopedia.wikia.com/wiki/Gra:Telefon?action=history).
 
-##License
-Ideas and realization game in original - SH3VEK [(look for other authors)](http://nonsensopedia.wikia.com/wiki/Gra:Telefon?action=history). License CC-BY-SA 3.0
+C++ port - kompowiec2, sorebit.
 
-Port for C++ - kompowiec2, sorebit. 
+License CC-BY-SA 3.0

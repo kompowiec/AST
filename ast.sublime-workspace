@@ -1,0 +1,1055 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"if",
+				"ifnd\tifndef (…)"
+			],
+			[
+				"get",
+				"getchar"
+			],
+			[
+				"hor",
+				"horner"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"su",
+				"success\t(index.js)"
+			],
+			[
+				"all",
+				"allBox"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"re",
+				"reply"
+			],
+			[
+				"wor",
+				"word"
+			],
+			[
+				"word",
+				"words"
+			],
+			[
+				"cel",
+				"cel_l"
+			],
+			[
+				"tiles",
+				"tiles"
+			],
+			[
+				"til",
+				"tiles"
+			],
+			[
+				"high",
+				"highRect"
+			],
+			[
+				"psuh",
+				"push_back"
+			],
+			[
+				"sss",
+				"sss_n"
+			],
+			[
+				"po",
+				"post_time"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"pus",
+				"push_back"
+			],
+			[
+				"odw",
+				"odwr"
+			],
+			[
+				"push",
+				"push_back\t(tur.cpp)"
+			],
+			[
+				"max",
+				"max_sc"
+			],
+			[
+				"rect",
+				"rectFrag"
+			],
+			[
+				"GR",
+				"GRASS\t(map.js)"
+			],
+			[
+				"gro",
+				"groundColor"
+			],
+			[
+				"ground",
+				"groundColor"
+			],
+			[
+				"groun",
+				"groundBorder"
+			],
+			[
+				"sand",
+				"sandBorder"
+			],
+			[
+				"Stone",
+				"stoneBorder"
+			],
+			[
+				"stone",
+				"stoneColor"
+			],
+			[
+				"ro",
+				"round"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"sym",
+				"applySymmetry"
+			],
+			[
+				"room",
+				"roomW"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"pop",
+				"pop_rur"
+			],
+			[
+				"Sm",
+				"SMTHN"
+			],
+			[
+				"tile",
+				"tileSize"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"color",
+				"colorBorder"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"read",
+				"read_ll"
+			],
+			[
+				"line",
+				"lineWidth"
+			],
+			[
+				"tie",
+				"tileSize"
+			],
+			[
+				"off",
+				"offsetX"
+			],
+			[
+				"fill",
+				"fillStyle\t(visual.js)"
+			],
+			[
+				"next",
+				"nextRandomInt\t(app.js)"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"hei",
+				"height\t(index.html)"
+			],
+			[
+				"nex",
+				"next_min"
+			],
+			[
+				"prz",
+				"prz_sz"
+			],
+			[
+				"begin",
+				"beginend\t$1.begin(), $1.end()"
+			],
+			[
+				"draw",
+				"drawBby"
+			],
+			[
+				"my",
+				"myPieChart"
+			],
+			[
+				"drwa",
+				"drawBby"
+			],
+			[
+				"fll",
+				"fillStyle"
+			],
+			[
+				"cu",
+				"circumference"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"de",
+				"debug_show"
+			],
+			[
+				"exec",
+				"execution"
+			],
+			[
+				"fp",
+				"fprintf\tfprintf …"
+			],
+			[
+				"STACK",
+				"STACK_SIZE"
+			],
+			[
+				"int",
+				"instruction_t"
+			],
+			[
+				"stack",
+				"stack_p"
+			],
+			[
+				"p",
+				"printf\tprintf …"
+			],
+			[
+				"ST",
+				"STACK_SIZE"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"Stack",
+				"stackT"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"url",
+				"urlStr"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"viwe",
+				"viewStr"
+			],
+			[
+				"view",
+				"viewStr"
+			],
+			[
+				"nam",
+				"nameStr"
+			],
+			[
+				"MX",
+				"MAX_NAME_LEN"
+			],
+			[
+				"MA",
+				"MAX_NAME_LEN"
+			],
+			[
+				"name",
+				"nameStr"
+			],
+			[
+				"out",
+				"outputLevelStr"
+			],
+			[
+				"ou",
+				"outputLevel"
+			],
+			[
+				"CXX",
+				"CXXLIBS"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "text.cpp",
+			"settings":
+			{
+				"buffer_size": 9910,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 1151,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "text.h",
+			"settings":
+			{
+				"buffer_size": 665,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 130,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 168.0,
+		"last_filter": "menu",
+		"selected_items":
+		[
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"snipp",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"++",
+				"Set Syntax: C++"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"diff",
+				"Diffy Cleanup"
+			],
+			[
+				"comp",
+				"Diffy Compare"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"c ",
+				"Set Syntax: C"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"meu",
+				"View: Toggle Menu"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"setting",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"in",
+				"Install Package Control"
+			]
+		],
+		"width": 493.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sorbet/Documents/git/AST"
+	],
+	"file_history":
+	[
+		"/home/sorbet/Documents/git/AST/main.cpp",
+		"/home/sorbet/Documents/git/AST/text.h",
+		"/home/sorbet/Documents/git/AST/text.cpp",
+		"/home/sorbet/Documents/git/AST/Makefile",
+		"/home/sorbet/Documents/git/AST/en.cpp",
+		"/home/sorbet/Documents/Zadania/aqua/ab-regularne/abr.cpp",
+		"/home/sorbet/Documents/Zadania/aqua/swiatla/in",
+		"/home/sorbet/Documents/Zadania/aqua/swiatla/swi.cpp",
+		"/home/sorbet/Documents/Zadania/pa2016/jedynki/jed.cpp",
+		"/home/sorbet/Documents/Web/visual-tools/example/src/main.js",
+		"/home/sorbet/Documents/Web/map-gen/src/main.js",
+		"/home/sorbet/Documents/Web/map-gen/src/map.js",
+		"/home/sorbet/Documents/Web/map-gen/styles/main.css",
+		"/home/sorbet/Documents/Web/visual-tools/src/visual.js",
+		"/home/sorbet/Documents/Web/api/public/main.js",
+		"/home/sorbet/Documents/Zadania/aqua/rolka-papieru/rol.cpp",
+		"/home/sorbet/Documents/Zadania/aqua/ciag/cia.cpp",
+		"/home/sorbet/Downloads/zaw/kanapka.h",
+		"/home/sorbet/Downloads/zaw/kan0b.in",
+		"/home/sorbet/Downloads/zaw/kan0a.in",
+		"/home/sorbet/Downloads/zaw/kansol.cpp",
+		"/home/sorbet/Downloads/zaw/kansol.c",
+		"/home/sorbet/Documents/Zadania/aqua/rolka-papieru/in",
+		"/home/sorbet/Documents/Web/api/package.json",
+		"/home/sorbet/Documents/Web/api/public/index.html",
+		"/home/sorbet/Documents/Zadania/aqua/ciag/in",
+		"/home/sorbet/Arduino/arduino-pong/README.md",
+		"/home/sorbet/Documents/Zadania/aqua/cele-wiezienne/cel.cpp",
+		"/home/sorbet/Documents/Zadania/aqua/cele-wiezienne/in",
+		"/home/sorbet/Documents/Zadania/aqua/pasy-ruchu/dij.cpp",
+		"/home/sorbet/Documents/Zadania/aqua/dodawanie-w-binarnym/ds2.cpp",
+		"/home/sorbet/Documents/Zadania/aqua/dodawanie-w-binarnym/in",
+		"/home/sorbet/Documents/Zadania/oi2016/turysta/tur.cpp",
+		"/home/sorbet/Documents/Algorytmy/silnie-spojne/sss.cpp",
+		"/home/sorbet/Documents/Algorytmy/silnie-spojne/in2",
+		"/home/sorbet/Documents/Algorytmy/silnie-spojne/in",
+		"/home/sorbet/Documents/Web/map-gen/index.html",
+		"/home/sorbet/Downloads/CYK_2016-11-05_11-32.cpp",
+		"/home/sorbet/Documents/Zadania/oi2016/turysta/out",
+		"/home/sorbet/Documents/Zadania/oi2016/turysta/in",
+		"/home/sorbet/Documents/Web/map-gen/src/app.js",
+		"/home/sorbet/Documents/Zadania/oi2016/podzielnosc/spr.sh",
+		"/home/sorbet/Documents/Zadania/oi2016/podzielnosc/pod.cpp",
+		"/home/sorbet/Documents/Web/visual-tools/example/index.html",
+		"/home/sorbet/Documents/Zadania/oi2016/sabotaz/in",
+		"/home/sorbet/Documents/Zadania/oi2016/sabotaz/spr.sh",
+		"/home/sorbet/Documents/Zadania/oi2016/reprezentacje-roznicowe/spr.sh",
+		"/home/sorbet/Documents/Zadania/oi2016/flappy-bird/fla.cpp",
+		"/home/sorbet/Documents/Zadania/oi2016/reprezentacje-roznicowe/rep.cpp",
+		"/home/sorbet/Documents/Zadania/oi2016/flappy-bird/fast.cpp",
+		"/home/sorbet/Documents/Zadania/oi2016/sabotaz/sab.cpp",
+		"/home/sorbet/Documents/Zadania/oi2016/flappy-bird/spr.sh",
+		"/home/sorbet/Documents/Zadania/oi2016/podzielnosc/in0.in",
+		"/home/sorbet/Documents/Zadania/oi2016/podzielnosc/in",
+		"/home/sorbet/Documents/Zadania/oi2016/flappy-bird/tests/small/in/fla0.in",
+		"/home/sorbet/Documents/Zadania/oi2016/podzielnosc/big/in/pod975.in",
+		"/home/sorbet/Documents/Zadania/oi2016/flappy-bird/prz3.in",
+		"/home/sorbet/Documents/Zadania/oi2016/flappy-bird/prz1.in",
+		"/home/sorbet/Documents/Zadania/oi2016/flappy-bird/prz2.in",
+		"/home/sorbet/.zshrc",
+		"/home/sorbet/Documents/Zadania/aqua/architekt/spr.sh",
+		"/home/sorbet/Documents/Zadania/aqua/cykle/in",
+		"/home/sorbet/Documents/Zadania/aqua/architekt/arc.cpp",
+		"/home/sorbet/Documents/Zadania/oi2016/spr.sh",
+		"/home/sorbet/Documents/Zadania/aqua/architekt/test/arc1.out",
+		"/home/sorbet/Documents/Zadania/aqua/architekt/test/arc2.out",
+		"/home/sorbet/Documents/Zadania/aqua/architekt/test/arc3.out",
+		"/home/sorbet/Documents/Zadania/aqua/architekt/in/arc1.in",
+		"/home/sorbet/Documents/Zadania/aqua/architekt/in/arc1.out",
+		"/home/sorbet/Documents/Zadania/aqua/architekt/in/arc2.out",
+		"/home/sorbet/Documents/Zadania/aqua/architekt/in/arc2.in",
+		"/home/sorbet/Documents/Zadania/aqua/architekt/in/arc3.in",
+		"/home/sorbet/Documents/Zadania/aqua/architekt/in/arc3.out",
+		"/home/sorbet/Documents/Zadania/aqua/cykle/cyk.cpp",
+		"/home/sorbet/Documents/Zadania/oi2016/reprezentacje-roznicowe/rep0.out",
+		"/home/sorbet/Documents/Zadania/oi2016/reprezentacje-roznicowe/small/out/rep0.out",
+		"/home/sorbet/Documents/Zadania/oi2016/reprezentacje-roznicowe/lel",
+		"/home/sorbet/Documents/Zadania/oi2016/reprezentacje-roznicowe/ciag.txt",
+		"/home/sorbet/Documents/Zadania/oi2016/reprezentacje-roznicowe/rep1.out",
+		"/home/sorbet/Documents/Zadania/oi2016/reprezentacje-roznicowe/roznice",
+		"/home/sorbet/Documents/Zadania/oi2016/reprezentacje-roznicowe/small/in/rep0.in",
+		"/home/sorbet/Documents/Zadania/oi2016/reprezentacje-roznicowe/big/out/rep950.out",
+		"/home/sorbet/Documents/Web/visual-tools/docs/Pie-Doughnut.md",
+		"/home/sorbet/Documents/Misc/zday.py",
+		"/home/sorbet/Documents/Zadania/oi2016/reprezentacje-roznicowe/main.cpp",
+		"/home/sorbet/Documents/Web/visual-tools/workspace.sublime-workspace",
+		"/home/sorbet/Documents/Zadania/aqua/domino/in",
+		"/home/sorbet/Documents/Zadania/aqua/domino/dom.cpp",
+		"/home/sorbet/Documents/Zadania/main2/inwersje/inw.cpp",
+		"/home/sorbet/Documents/Web/visual-tools/client/src/config.js",
+		"/home/sorbet/Documents/Web/visual-tools/main.js",
+		"/home/sorbet/Documents/Web/visual-tools/server/server.js",
+		"/home/sorbet/Documents/Web/visual-tools/README.md",
+		"/home/sorbet/Documents/Web/lines/client/src/main.js",
+		"/home/sorbet/Downloads/slowa-binarne/swb.cpp",
+		"/home/sorbet/Documents/Zadania/aqua/pasy-ruchu/in",
+		"/home/sorbet/Documents/Zadania/aqua/pasy-ruchu/pasr.cpp",
+		"/home/sorbet/Documents/Zadania/aqua/pasy-ruchu/pas.cpp",
+		"/home/sorbet/Documents/Zadania/ilocamp13/podzielone-krolestwo/pod.cpp",
+		"/home/sorbet/Documents/Zadania/aqua/minimalna-liczba/comp",
+		"/home/sorbet/Documents/Zadania/aqua/minimalna-liczba/in",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/Makefile",
+		"/home/sorbet/Documents/Zadania/aqua/minimalna-liczba/min.cpp",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/README.md",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/main.c",
+		"/home/sorbet/Documents/Programming-Challenges/81-Polygons/main.c",
+		"/home/sorbet/Documents/Programming-Challenges/22-BMI-calculator/main.c",
+		"/home/sorbet/Documents/Programming-Challenges/CHALLENGES-LEFT.md",
+		"/home/sorbet/Documents/Web/sorebit.github.io/index.html",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/example/primes.bf",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/example/mulitply.bf",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/example/hello.bf",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/example/bottles.bf",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/multiply-two-chars.bf",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/multiply-two-chars-1.bf",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/test.bf.idea",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/example/add.bf",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/card.c",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/gabis.c",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/bottles.bf",
+		"/home/sorbet/Documents/Programming-Challenges/README.md",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/huh.bf",
+		"/home/sorbet/Documents/Algorytmy/merge-sort/mergesort.cpp",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/in",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/stack.c",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/stack.h",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/test.bf",
+		"/home/sorbet/Documents/Programming-Challenges/77-Brainfuck-interpreter/add.bf"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"je",
+			"i",
+			"displa",
+			"\t\t<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n\t\ttempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n\t\tquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n\t\tconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n\t\tcillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n\t\tproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n",
+			"color",
+			"<a>",
+			"div",
+			"'",
+			"h1",
+			"%d",
+			"paddleLeft",
+			"paddleLeftUp",
+			"playerLeft",
+			"Thing from",
+			"Fire Elemental",
+			"Thunder Bluff Valiant",
+			"Flamewreathed Faceless",
+			"Draenei Totemcarver",
+			"Tuskarr Totemic",
+			"Mana Tide Totem",
+			"Lightning Storm",
+			"Hex ×",
+			"Feral Spirit",
+			"Totem Golem",
+			"Stormcrack",
+			"Rockbiter Weapon",
+			"Flametongue Totem",
+			"Tunnel Trogg",
+			"Primal Fusion",
+			"Lightning Bolt",
+			"4",
+			"cel",
+			"a",
+			">>",
+			"<< ",
+			"a",
+			"sza",
+			"y",
+			"i",
+			"rog",
+			"top",
+			"0",
+			"graf",
+			"303030",
+			"printf",
+			"height",
+			"y",
+			"waterBorder",
+			"waterColor",
+			"WATER",
+			"stone",
+			"room",
+			"ctx",
+			"frag[",
+			"roomW",
+			"roomH",
+			"y",
+			"w",
+			"qi + 1",
+			"sz",
+			"GRND",
+			"GROUD",
+			"GROUND",
+			"x",
+			"rur[i-1]",
+			"rur[i]",
+			"rur[",
+			"max",
+			".skoki",
+			"prz",
+			"   ",
+			"printf",
+			"ojc",
+			"pod_sz",
+			"this.options.tileSize",
+			"this.options.borderSize",
+			"AIR",
+			"ZERO",
+			",",
+			"WALL",
+			"printf",
+			"read",
+			"line",
+			"x",
+			"i",
+			"bins",
+			"llu",
+			"a",
+			"roz",
+			"min_moz",
+			"max_moz",
+			"pos",
+			"wall",
+			"minDown",
+			"posDiff",
+			"poz",
+			"prz[i-1].max_moz + dis",
+			"p[",
+			"lmax",
+			"b",
+			"a",
+			"&",
+			"&x",
+			"x",
+			"i",
+			"long long",
+			"304",
+			"```\n",
+			"myPieChart",
+			"console.log",
+			"begs",
+			"fillS",
+			"circumfere",
+			"vfg",
+			"config",
+			"if( ",
+			">",
+			"maksTeraz",
+			"maksOdp",
+			"odpSlowa",
+			" )",
+			"for",
+			"  ",
+			"=",
+			"){",
+			"for( ",
+			"  ",
+			"1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "text.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9910,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++11/C++11.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++11/C++11.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "text.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 665,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ast.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"man",
+				"terra/Pole-dowolnego-cz/main"
+			],
+			[
+				"index",
+				"~/Documents/Web/lines/client/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/.always.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
