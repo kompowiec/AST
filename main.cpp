@@ -9,7 +9,6 @@ int main(int argc, char const *argv[])
 	// Myślę, że to powinno być w funckji menu, bo chcemy zawsze móc wrócić 
 	while(true)
 	{
-		std::cin >> choice;
 if (!(std::cin >> choice))
    {
      std:: cerr<<"To nie jest liczba!";

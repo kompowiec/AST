@@ -26,4 +26,6 @@
 *.exe
 *.out
 *.app
+#swap file
+*.swp
 AST
