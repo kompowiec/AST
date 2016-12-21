@@ -34,7 +34,7 @@ void konto() //1-2
 }
 
 //1-2-1 or 1-2-3
-//1-2-2 wraca do 1
+//1-2-2 return to 1
 void doladowanie()
 {
 	printf("Kod kuponu został już użyty lub jest nieprawidłowy.\n");
@@ -240,12 +240,12 @@ void swinska() //0-1-1-4
 	printf("Dalej\n");
 }
 
-void nein()
+void nein() //denied
 {
 	printf("Myslałeś, że zrobimy to przez telefon. Takie rzeczy należy załatwić inną drogą. Jeśli chcesz wybrać inną chorobę, wciśnij 1.\n"); 
 }
 
-void number()
+void number() //default
 {
 	printf("Wpisz liczbę\n");
 }

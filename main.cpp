@@ -5,8 +5,7 @@ int main(int argc, char const *argv[])
 {
 	int choice;
 	int choice2;
-	menu();
-	// Myślę, że to powinno być w funckji menu, bo chcemy zawsze móc wrócić 
+	menu(); //in every functios is text only.
 	while(true)
 	{
 if (!(std::cin >> choice))
@@ -18,58 +17,78 @@ if (!(std::cin >> choice))
 		{
 			case 1:
 				account();
-				// 2
-				konto();
+				std::cin >> choice2;
 				switch(choice2)
 				{
 					case 1:
 						doladowanie();
 						break;
 					case 2:
-						konto();
-						break;
-					case 3:
-						doladowanie();
-						break;
+					konto();
+					std::cin >> choice2;
+							switch(choice2)
+							{
+							case 1:
+							doladowanie();
+							break;
+							case 2:
+							account();
+							break;
+							case 3:
+							doladowanie();
+							break;
+							}
 				}
 				break;
 			case 2:
 				nagroda();
-				// 1
-				nagroda1();
-				// 2
-				nagroda2();
-				// 3
-				nagroda3();
-				// 4
-				nagroda4();
-				switch(choice2)
-				{
-					case 1:
-						odbierz();	
-						// 1
-						gotowka();
-						// 2
-						gotowka();
-						// 3
-						kasa();
-					break;
-				}
-				// 5
+				std::cin >> choice2;
+						switch(choice2)
+						{
+						case 1:
+						nagroda1();
+						break;
+						case 2:
+						nagroda2();
+						break;
+						case 3:
+						nagroda3();
+						break;
+						case 4:
+						nagroda4();
+							switch(choice2)
+							{
+							case 1:
+							odbierz();	
+							// 1
+							gotowka();
+							// 2
+							gotowka();
+							// 3
+							kasa();
+							break;
+							}
+						break;
+				case 5:
 				nagroda5();
-				// 6
+				break;
+				case 6:
 				nagroda6();
 				break;
+				}
 			case 3:
 				poczta();
+				std::cin >> choice2;
 				break;
 			case 4:
 				admin();
+				std::cin >> choice2;
 				// 1
 				admin1();
 				break;
 			case 5:
 				abonament();
+				std::cin >> choice2;
 				// 1
 				TP();
 				// 2
@@ -85,35 +104,40 @@ if (!(std::cin >> choice))
 				break;
 			case 9:
 				neostrada();
-				// 1
-				poczta();
 				break;
 			case 0:
 				pogotowie();
-				// 1
-				ASTPR();
 				std::cin.get();
+				ASTPR();
+				std::cin >> choice2;
 				switch(choice2)
 				{
 					case 1:
-						ill();
-						// 1
+					ill();
+					std::cin >> choice2;
+					break;
+						switch(choice2)
+						{
+						case 1:
 						przeziebienie();
-						// 2
+						break;
+						case 2:
 						Grypa();
-						// 3
+						break;
+						case 3:
 						ptasia();
-						// 4
+						break;
+						case 4:
 						swinska();
 						break;
+						}
 					case 2: case 3: case 4:
-						nein();
-						break;
+					nein();
+					break;
 				}
 				break;
 			default:
 				number();
-				return 0; // Na pewno ma wychodzić z całego programu?
 		} // switch
 	} // while
 	return 0;
