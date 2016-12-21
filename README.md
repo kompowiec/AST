@@ -19,7 +19,7 @@ Tested on Debian Jessie, Debian Stretch and Fedora 24.
 
 ## License
 Ideas and original game - SH3VEK [(look for other authors)](http://nonsensopedia.wikia.com/wiki/Gra:Telefon?action=history).
+License CC-BY-SA 3.0
 
 C++ port - kompowiec2, sorebit.
-
-License CC-BY-SA 3.0
+License WTFPL
