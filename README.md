@@ -23,3 +23,6 @@ License CC-BY-SA 3.0
 
 C++ port - kompowiec2, sorebit.
 License WTFPL
+
+## Known issues
+* When choice some option and afther ending tier, go back menu and automatic print next option with main menu

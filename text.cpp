@@ -25,6 +25,10 @@ void account() //1
 	printf("Jeśli chcesz doładować swoje konto, wciśnij 2.\n");
 	printf("Chcesz wrócić do głównego menu,     wciśnij gwiazdkę (*).\n");    
 }
+void checkaccount() //1-1
+{
+printf("Masz 1,23 zł ważne do 2017-01-2 23:59. Jeśli chcesz doładować swoje konto, wciśnij 1.");
+}
 void konto() //1-2
 {
 	printf("Wybierz kod kuponu:\n");
@@ -243,9 +247,4 @@ void swinska() //0-1-1-4
 void nein() //denied
 {
 	printf("Myslałeś, że zrobimy to przez telefon. Takie rzeczy należy załatwić inną drogą. Jeśli chcesz wybrać inną chorobę, wciśnij 1.\n"); 
-}
-
-void number() //default
-{
-	printf("Wpisz liczbę\n");
 }

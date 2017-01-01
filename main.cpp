@@ -3,30 +3,29 @@
 
 int main(int argc, char const *argv[])
 {
-	int choice;
-	int choice2;
+	int choice[2];
 	menu(); //in every functios is text only.
 	while(true)
 	{
-if (!(std::cin >> choice))
+if (!(std::cin >> choice[0]))
    {
      std:: cerr<<"To nie jest liczba!";
        exit(0);
    }
-		switch(choice)
+		switch(choice[0])
 		{
 			case 1:
 				account();
-				std::cin >> choice2;
-				switch(choice2)
+				std::cin >> choice[1];
+				switch(choice[1])
 				{
 					case 1:
-						doladowanie();
+						checkaccount(); //powinien po wciśnięciu jeden przechodzić bezpośrednio do case 2
 						break;
 					case 2:
 					konto();
-					std::cin >> choice2;
-							switch(choice2)
+					std::cin >> choice[1];
+							switch(choice[1])
 							{
 							case 1:
 							doladowanie();
@@ -42,8 +41,8 @@ if (!(std::cin >> choice))
 				break;
 			case 2:
 				nagroda();
-				std::cin >> choice2;
-						switch(choice2)
+				std::cin >> choice[1];
+						switch(choice[1]) 
 						{
 						case 1:
 						nagroda1();
@@ -56,15 +55,17 @@ if (!(std::cin >> choice))
 						break;
 						case 4:
 						nagroda4();
-							switch(choice2)
+							switch(choice[2])
 							{
 							case 1:
 							odbierz();	
-							// 1
+							break;
+							case 2:
 							gotowka();
-							// 2
+							break;
+							case 3:
 							gotowka();
-							// 3
+							break;
 							kasa();
 							break;
 							}
@@ -78,24 +79,31 @@ if (!(std::cin >> choice))
 				}
 			case 3:
 				poczta();
-				std::cin >> choice2;
-				break;
+			break;
 			case 4:
 				admin();
-				std::cin >> choice2;
-				// 1
-				admin1();
-				break;
+				std::cin >> choice[1];
+					switch(choice[1])
+					{
+					case 1:
+					admin1();
+					break;
+					}
 			case 5:
 				abonament();
-				std::cin >> choice2;
-				// 1
-				TP();
-				// 2
-				train();
-				// 3
-				nonfree();
-				break;
+				std::cin >> choice[1];
+					switch(choice[1])
+					{
+					case 1:
+					TP();
+					break;
+					case 2:
+					train();
+					break;
+					case 3:
+					nonfree();
+					break;
+				}
 			case 6: case 7:
 				telefon();
 				break;
@@ -104,19 +112,25 @@ if (!(std::cin >> choice))
 				break;
 			case 9:
 				neostrada();
-				break;
+				std::cin >> choice[1];
+					switch(choice[1])
+					{
+					case 1:
+					poczta();
+					break;
+					}
 			case 0:
 				pogotowie();
 				std::cin.get();
 				ASTPR();
-				std::cin >> choice2;
-				switch(choice2)
+				std::cin >> choice[1];
+				switch(choice[1])
 				{
 					case 1:
 					ill();
-					std::cin >> choice2;
+					std::cin >> choice[1];
 					break;
-						switch(choice2)
+						switch(choice[1])
 						{
 						case 1:
 						przeziebienie();
@@ -136,8 +150,6 @@ if (!(std::cin >> choice))
 					break;
 				}
 				break;
-			default:
-				number();
 		} // switch
 	} // while
 	return 0;
